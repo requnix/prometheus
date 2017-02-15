@@ -1,0 +1,13 @@
+name: prometheus
+version: 0.1.0
+
+authors:
+  - Michael Prins <requnix@gmail.com>
+
+crystal: 0.20.5
+
+dependencies:
+  sdl:
+    github: ysbaddaden/sdl.cr
+
+license: MIT
